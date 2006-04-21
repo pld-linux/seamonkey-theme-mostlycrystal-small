@@ -1,6 +1,6 @@
 %define		_realname	mostlycrystalsmall
 Summary:	Mostly Crystal for SeaMonkey - small
-Summary(pl):	motyw Mostly Crystal do SeaMonkey - wersja 24px
+Summary(pl):	Motyw Mostly Crystal do SeaMonkey - wersja 24px
 Name:		seamonkey-theme-mostlycrystal-small
 Version:	2006.04.17
 Release:	1
@@ -24,7 +24,7 @@ SVG (for Linux) icon set designed by Everaldo and includes icons in
 their original form plus custom-edited composites of the originals.
 
 %description -l pl
-Mostly Crystal jest tematem dla SeaMonkeya pochadz±cym g³ównie z
+Mostly Crystal jest motywem dla SeaMonkeya pochodz±cym g³ównie z
 zestawu ikon Crystal SVG (for Linux) zaprojektowanego przez Everaldo i
 zawiera ikony w ich oryginalnej formie oraz w³asnorêczne modyfikacje.
 

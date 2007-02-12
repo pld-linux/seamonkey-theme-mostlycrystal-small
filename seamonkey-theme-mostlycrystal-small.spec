@@ -1,6 +1,6 @@
 %define		_realname	mostlycrystalsmall
 Summary:	Mostly Crystal for SeaMonkey - small
-Summary(pl.UTF-8):   Motyw Mostly Crystal do SeaMonkey - wersja 24px
+Summary(pl.UTF-8):	Motyw Mostly Crystal do SeaMonkey - wersja 24px
 Name:		seamonkey-theme-mostlycrystal-small
 Version:	2006.04.17
 Release:	1
